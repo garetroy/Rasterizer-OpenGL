@@ -1,0 +1,3 @@
+/Users/Garett/Projects/temp/proj1A/CMakeFiles/edit_cache.dir
+/Users/Garett/Projects/temp/proj1A/CMakeFiles/rebuild_cache.dir
+/Users/Garett/Projects/temp/proj1A/CMakeFiles/project1A.dir
